@@ -1,0 +1,8 @@
+Vendor Reply Body,AI Classified Intent,AI Extracted Date,Human_Expected_Intent,Human_Expected_Date
+"Hi, we've just submitted our quotation for Widget X. It's attached.",QUOTE_SUBMITTED,nan,QUOTE_SUBMITTED,None
+So what happened wass there were 27 items... one is broke so now there are 26 left.,NEEDS_ASSISTANCE,nan,NEEDS_ASSISTANCE,None
+Thank you for your response.,ACKNOWLEDGMENT,nan,ACKNOWLEDGMENT,None
+We will submit the quote by 2025-07-30.,DATE_PROVIDED,2025-07-30,DATE_PROVIDED,2025-07-30
+"Due to unforeseen circumstances, we will now submit by July 15th.",DATE_PROVIDED,2025-07-15,DATE_PROVIDED,2025-07-15
+"I am out of office until next week, back on July 8th.",OUT_OF_OFFICE,None,OUT_OF_OFFICE,None
+Can you confirm receipt of our last email?,NEEDS_ASSISTANCE,None,NEEDS_ASSISTANCE,None

@@ -1,0 +1,6 @@
+\# Navyug
+
+
+
+AI project repository.
+

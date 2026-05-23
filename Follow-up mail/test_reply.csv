@@ -1,0 +1,668 @@
+Quote ID,Vendor Name,System Initial Reminder Body (Snippet),Vendor Reply Body,AI Classified Intent,AI Extracted Date,System Auto-Reply Body (Snippet),Human Alert Sent (Yes/No),Human Alert Body (Snippet)
+101,Global Supplies Inc.,"Dear Global Supplies Inc.,
+
+We hope this email finds you well.
+
+This is a friendly follow-up regarding our quotation request (Indent ID 1) submitted on June 10th, 2025, for 10 units of Widget X and 5 units of Gadget B.  We understand you may be busy, but we wanted to gently remind you to submit your quotation at your earliest convenience.
+
+Timely responses are important to us as we are working towards finalizing our procurement process.  To submit your quotation, please click on the following link:
+
+https://yourcompany.com/quotes/form?id=4733eb68-6b28-4691-8540-90e12fda0d28
+
+Should you encounter any difficulties in accessing the form or require any assistance in preparing your quotation, please do not hesitate to contact us. We are happy to help in any way we can.
+
+Thank you for your time and consideration. We look forward to receiving your quotation soon.
+
+
+Sincerely,
+
+Navyug Infosolutions Procurement Team","Hi, we've just submitted our quotation for Widget X. It's attached for your review.",QUOTE_SUBMITTED,NULL,"Dear Vendor,
+
+Thank you for submitting your quotation for Indent ID 1. We appreciate your response and will process it shortly.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+104,Precision Parts Co.,"Dear Tech Solutions Ltd.,
+
+We hope this email finds you well.
+
+This is a friendly reminder regarding our quotation request (Indent ID: 2) submitted on June 11th, 2025, for 20 units of the Alpha Component.  We understand you may be busy, but we would appreciate it if you could submit your quotation at your earliest convenience.  Timely responses are important to ensure the smooth progress of our procurement process.
+
+To submit your quotation, please click on the following link: https://yourcompany.com/quotes/form?id=91da0020-bc9a-4608-bbe9-afd88873165d
+
+Should you encounter any difficulties in accessing the form or require any assistance in preparing your quotation, please do not hesitate to contact us. We are happy to help in any way we can.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Navyug Infosolutions Procurement Team","Hello, our team has completed the quote for your request. You should receive it shortly.  ",QUOTE_SUBMITTED,NULL,"Dear Vendor,
+
+Thank you for submitting your quotation for Indent ID 2. We appreciate your response and will process it shortly.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,"Dear Precision Parts Co.,
+
+This is a friendly follow-up regarding your quotation request for Indent ID 4, submitted on June 7th, 2025.  The request includes 1 unit of the Delta Device.
+
+We understand you may be busy, but we kindly request you to submit your quotation at your earliest convenience.  Timely responses are important to ensure the smooth progress of our procurement process.
+
+To submit your quotation, please click on the following link: https://yourcompany.com/quotes/form?id=70d7b75a-a1a2-4c06-b555-98a510f9cdeb
+
+Should you encounter any difficulties in completing the form or have any questions, please do not hesitate to contact us. We are happy to assist you in any way we can.
+
+Thank you for your time and cooperation.
+
+Sincerely,
+
+Navyug Infosolutions Procurement Team",The quotation for Indent ID 1 is now with you. Thank you.  ,QUOTE_SUBMITTED,NULL,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 4. We have noted your expected submission date as 2025-06-07. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,"Dear Global Supplies Inc.,
+
+We hope this email finds you well.
+
+This is a friendly follow-up regarding our quotation request (Indent ID 5) submitted on June 5th, 2025, for 15 units of Gamma Material.  We understand you may be busy, but we wanted to gently remind you to submit your quotation at your earliest convenience.
+
+Timely responses are important to us as we are working towards finalizing our procurement process.  To submit your quotation, please click on the following link:
+
+[https://yourcompany.com/quotes/form?id=1334cc1d-2978-4616-acc3-ead0a8170244](https://yourcompany.com/quotes/form?id=1334cc1d-2978-4616-acc3-ead0a8170244)
+
+Should you encounter any difficulties in accessing the form or require any assistance in preparing your quotation, please do not hesitate to contact us. We are happy to help in any way we can.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Navyug Infosolutions Procurement Team",Quote for the 10 units of Widget X has been finalized and sent.  ,QUOTE_SUBMITTED,NULL,"Dear Vendor,
+
+Thank you for submitting your quotation for Indent ID 5. We appreciate your response and will process it shortly.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,,,,,,
+,,,I will be out of the office starting 2025-06-26 and will return on 2025-07-03.,OUT_OF_OFFICE,2025-07-03.,"Dear Vendor,
+
+Thank you for your out-of-office reply. We have noted your return date and will be waiting for your quotation for Indent ID 1 upon your return.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,"This is an automated response. I am currently away and will be back on July 5th, 2025. Your email regarding Indent ID 2 will be addressed then.",OUT_OF_OFFICE,2025-06-11,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 2. We have noted your expected submission date as 2025-06-11. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,"Please note I am on leave until July 10, 2025.",OUT_OF_OFFICE,2025-06-07,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 4. We have noted your expected submission date as 2025-06-07. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team
+",No,NA
+,,,I'm on vacation. Will check emails after 2025-07-15.,OUT_OF_OFFICE,2025-07-15,"Dear Vendor,
+
+Thank you for your out-of-office reply. We have noted your return date and will be waiting for your quotation for Indent ID 5 upon your return.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,,,,,,
+,,,We are unable to provide a quotation for these specific items at this time., CANNOT_QUOTE,NULL,"
+Dear Vendor,
+
+Thank you for letting us know that you are unable to provide a quotation for Indent ID 1. We appreciate you taking the time to respond.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team
+",No,NA
+,,,"Unfortunately, we cannot quote for the Delta Device. Please disregard this request.", CANNOT_QUOTE,NULL,"Dear Vendor,
+
+Thank you for letting us know that you are unable to provide a quotation for Indent ID 2. We appreciate you taking the time to respond.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,This request is outside our current product range., CANNOT_QUOTE,NULL,"Dear Vendor,
+
+Thank you for letting us know that you are unable to provide a quotation for Indent ID 4. We appreciate you taking the time to respond.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,"Apologies, but we do not carry stock of the requested item.", CANNOT_QUOTE,NULL,"Dear Vendor,
+
+Thank you for letting us know that you are unable to provide a quotation for Indent ID 5. We appreciate you taking the time to respond.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team
+",No,NA
+,,,,,,,,
+,,,I will submit the quotation on 2025-06-28.,DATE_PROVIDED,2025-06-28,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 1. We have noted your expected submission date as 2025-06-28. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,"Expected submission date is July 1, 2025.",DATE_PROVIDED,"July 1, 2025.","Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 2. We have noted your expected submission date as 2025-07-01. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,Quote will be sent by 2025/07/05.,DATE_PROVIDED,2025/07/05.,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 4. We have noted your expected submission date as 2025-07-05. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,",No,NA
+,,,"We anticipate submitting by the 10th of July, 2025.",DATE_PROVIDED,"10th of July, 2025.","Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 5. We have noted your expected submission date as 2025-07-10. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,We plan to provide the quote by June 30th.,DATE_PROVIDED,June 30th.,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 1. We have noted your expected submission date as 2025-06-30. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,You'll have the quote by next Friday.,DATE_PROVIDED,2025-06-11,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 2. We have noted your expected submission date as 2025-06-11. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team
+",No,NA
+,,,Our new ETA is 07/15/2025.,DATE_PROVIDED,2025-07-15.,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 4. We have noted your expected submission date as 2025-07-15. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,We'll get this to you by the end of the week,DATE_PROVIDED,2025-06-05,"Dear Vendor,
+
+Thank you for your update regarding quotation for Indent ID 5. We have noted your expected submission date as 2025-06-05. We will remind you closer to that date if needed.
+
+We appreciate your timely communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA
+,,,,,,,,
+,,,I am having trouble accessing the form link. Can you please help?,NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 1. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **NEEDS_ASSISTANCE**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: e6a596d2-e5fa-49a1-903c-a1a3ee82dba8)
+ for Indent ID 1 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:32:14 +0530
+
+Original Message:
+  I am having trouble accessing the form link. Can you please help?
+
+On Wed, Jun 25, 2025 at 2:31 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Global Supplies Inc.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding our quotation request (Indent ID:
+> 1) submitted on June 10th, 2025, for 10 units of Widget X and 5 units of
+> Gadget B.  We understand you may be busy, but we wanted to gently remind
+> you to submit your quotation at your earliest convenience.
+>
+> Timely responses are important to us as we are working towards finalizing
+> our procurement process.  To submit your quotation, please click on the
+> following link:
+>
+> [
+> https://yourcompany.com/quotes/form?id=e6a596d2-e5fa-49a1-903c-a1a3ee82dba8](https://yourcompany.com/quotes/form?id=e6a596d2-e5fa-49a1-903c-a1a3ee82dba8)
+>
+> Should you encounter any difficulties in accessing the form or require any
+> assistance in preparing your quotation, please do not hesitate to contact
+> us. We are happy to help in any way we can.
+>
+> Thank you for your time and consideration.
+>
+> Sincerely,
+>
+> Navyug Infosolutions Procurement Team
+
+--- End Original Message Details ---
+
+Internal Reference (if linked):
+Quotation ID: 101
+Vendor Email: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Indent ID: 1
+# Add a link to the internal dashboard here if you have one.
+# Example: Link to internal dashboard for this quote/indent if applicable: https://yourcompany.com/dashboard/quotes/101
+
+Please investigate and reply directly to the supplier as needed.
+
+Thank you,
+Navyug Infosolutions Automated Procurement System"
+,,,Could you clarify the specifications for Alpha Component? We need more details.,NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 2. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **NEEDS_ASSISTANCE**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: b99179e3-12fe-49ce-b824-b8ed0ae49300)
+ for Indent ID 2 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:32:21 +0530
+
+Original Message:
+  Could you clarify the specifications for Alpha Component? We need more
+details.
+
+On Wed, Jun 25, 2025 at 2:31 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Tech Solutions Ltd.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding our quotation request (Indent ID:
+> 2) submitted on June 11th, 2025, for 20 units of the Alpha Component.  We
+> understand you may be busy, but we wanted to gently remind you to submit
+> your quotation at your earliest convenience.
+>
+> Timely responses are important to us as we are working towards finalizing
+> our procurement process.  To submit your quotation, please click on the
+> following link:
+>
+> [
+> https://yourcompany.com/quotes/form?id=b99179e3-12fe-49ce-b824-b8ed0ae49300](https://yourcompany.com/quotes/form?id=b99179e3-12fe-49ce-b824-b8ed0ae49300)
+>
+> Should you encounter any difficulties in completing the form or have any
+> questions, please do not hesitate to contact us. We are happy to assist you
+> in any way we can.
+>
+> Thank you for your time and consideration.
+>
+> Sincerely,
+>
+> Navyug Infosolutions Procurement Team
+
+--- End Original Message Details ---"
+,,,"Regarding this request, we are missing a part number for one of the items. Please advise.",NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 4. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **NEEDS_ASSISTANCE**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: 35475f71-aba4-417f-9664-e3f3f47d4fdf)
+ for Indent ID 4 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:32:39 +0530
+
+Original Message:
+  Regarding this request, we are missing a part number for one of the
+items. Please advise.
+
+On Wed, Jun 25, 2025 at 2:31 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Precision Parts Co.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding Indent ID 4, placed on June 7th,
+> 2025, for 1 unit of the Delta Device. We understand you may be busy, but we
+> wanted to gently remind you about submitting your quotation.
+>
+> Timely responses are important to us as we're working towards finalizing
+> our procurement process.  To submit your quotation, please click on the
+> following link:
+>
+> [
+> https://yourcompany.com/quotes/form?id=35475f71-aba4-417f-9664-e3f3f47d4fdf](https://yourcompany.com/quotes/form?id=35475f71-aba4-417f-9664-e3f3f47d4fdf)
+>
+> Should you encounter any difficulties in completing the form or have any
+> questions, please don't hesitate to contact us. We're happy to assist you
+> in any way we can.
+>
+> Thank you for your time and consideration.
+>
+> Sincerely,
+>
+> Navyug Infosolutions Procurement Team
+
+--- End Original Message Details ---
+
+Internal Reference (if linked):
+Quotation ID: 104
+Vendor Email: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Indent ID: 4
+# Add a link to the internal dashboard here if you have one.
+# Example: Link to internal dashboard for this quote/indent if applicable: https://yourcompany.com/dashboard/quotes/104
+
+Please investigate and reply directly to the supplier as needed.
+
+Thank you,
+Navyug Infosolutions Automated Procurement System"
+,,,The file size for attachment is too small on your form. Can't upload our full quote.,NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 5. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **NEEDS_ASSISTANCE**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: bc0cbaef-f4e5-4702-b9f1-89f8edda1c52)
+ for Indent ID 5 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:38:48 +0530
+
+Original Message:
+  The file size for attachment is too small on your form. Can't upload our
+full quote.
+
+
+On Wed, Jun 25, 2025 at 2:33 PM <drish.navyug@gmail.com> wrote:
+
+>
+> Dear Vendor,
+>
+> Thank you for letting us know that you are unable to provide a quotation
+> for Indent ID 5. We appreciate you taking the time to respond."
+,,,"  Hello, We've been trying to access the online submission link for Form ID:  44e2fe52-bb09-43b5-9ec2-69c8ac61a351  , but it seems to be redirecting to a blank page after login. Could you confirm if there's an alternative method to submit, or if the system is experiencing an outage? Thanks, Vendor Contact  ",NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 1. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **UNCLEAR_OTHER**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: 44e2fe52-bb09-43b5-9ec2-69c8ac61a351)
+ for Indent ID 1 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:50:38 +0530
+
+Original Message:
+  Hello, We've been trying to access the online submission link for Form
+ID:  44e2fe52-bb09-43b5-9ec2-69c8ac61a351  , but it seems to be redirecting
+to a blank page after login. Could you confirm if there's an alternative
+method to submit, or if the system is experiencing an outage? Thanks,
+Vendor Contact
+
+On Wed, Jun 25, 2025 at 2:49 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Global Supplies Inc.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding our quotation request (Indent ID 1)
+> submitted on June 10th, 2025, for 10 units of Widget X and 5 units of
+> Gadget B.  We understand you may be busy, but we wanted to gently remind
+> you to submit your quotation at your earliest convenience.
+>
+> Timely responses are important to us as we are working towards finalizing
+> our procurement process.  To submit your quotation, please click on the
+> following link:
+>
+> https://yourcompany.com/quotes/form?id=44e2fe52-bb09-43b5-9ec2-69c8ac61a351
+>
+> Should you encounter any difficulties in accessing the form or require any
+> assistance in preparing your quotation, please do not hesitate to contact
+> us. We are happy to help in any way we can.
+>
+> Thank you for your time and consideration. We look forward to receiving
+> your quotation soon.
+
+"
+,,,"  Dear Navyug Team, For Indent ID 2 , concerning the "" 20 units of the Alpha Component  "", our records indicate several variations of this device. To ensure we quote accurately for Form ID:  ca563872-f27f-4c41-a040-8277d23e6bee  , could you please specify the exact model number or required features? Sincerely, Vendor Contact  ",NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 2. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **UNCLEAR_OTHER**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: ca563872-f27f-4c41-a040-8277d23e6bee)
+ for Indent ID 2 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:52:01 +0530
+
+Original Message:
+  Dear Navyug Team, For Indent ID 2 , concerning the "" 20 units of the
+Alpha Component  "", our records indicate several variations of this device.
+To ensure we quote accurately for Form ID:
+ca563872-f27f-4c41-a040-8277d23e6bee  , could you please specify the exact
+model number or required features? Sincerely, Vendor Contact
+
+On Wed, Jun 25, 2025 at 2:49 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Tech Solutions Ltd.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly reminder regarding our quotation request (Indent ID: 2)
+> submitted on June 11th, 2025, for 20 units of the Alpha Component.  We
+> understand you may be busy, but we would appreciate it if you could submit
+> your quotation at your earliest convenience.  Timely responses are
+> important to us as we are working towards finalizing our procurement
+> process.
+>
+> To submit your quotation, please click on the following link:
+> https://yourcompany.com/quotes/form?id=ca563872-f27f-4c41-a040-8277d23e6bee
+>
+> Should you encounter any difficulties in accessing the form or require any
+> assistance in preparing your quotation, please do not hesitate to contact
+> us. We are happy to help in any way we can."
+,,,"  Hi, Our quotation for the  1 unit of the Delta Device  (Form ID:  7fd49f56-46eb-40a2-8751-1c852af213c8  ) includes extensive technical drawings which make the file size quite large (over 25MB). What is your preferred method for us to transmit such a large attachment, as your typical email limits might be an issue? Best regards, Vendor Contact  ",NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 4. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **UNCLEAR_OTHER**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: 7fd49f56-46eb-40a2-8751-1c852af213c8)
+ for Indent ID 4 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:53:18 +0530
+
+Original Message:
+  Hi, Our quotation for the  1 unit of the Delta Device  (Form ID:
+7fd49f56-46eb-40a2-8751-1c852af213c8  ) includes extensive technical
+drawings which make the file size quite large (over 25MB). What is your
+preferred method for us to transmit such a large attachment, as your
+typical email limits might be an issue? Best regards, Vendor Contact
+
+On Wed, Jun 25, 2025 at 2:49 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Precision Parts Co.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding Indent ID 4, placed on June 7th,
+> 2025, for 1 unit of the Delta Device. We understand you may be busy, but we
+> wanted to gently remind you about submitting your quotation for this
+> request.
+>
+> Timely responses are important to us as we finalize our procurement
+> process.  To submit your quotation, please click on the following link:
+>
+> [
+> https://yourcompany.com/quotes/form?id=7fd49f56-46eb-40a2-8751-1c852af213c8](https://yourcompany.com/quotes/form?id=7fd49f56-46eb-40a2-8751-1c852af213c8)
+>
+> Should you encounter any difficulties in accessing the form or require any
+> assistance in preparing your quotation, please do not hesitate to contact
+> us. We are happy to help in any way we can."
+,,,"  Good morning, We're working on the quotation for Indent ID 5 (Form ID:  1453c070-210b-4b63-9bc4-491c008f206c  ). We've encountered some difficulty in sourcing one of the minor components for 15 units of Gamma Material  within our usual supply chain constraints. Are you open to considering equivalent alternatives, or is a specific brand/model strictly required? Thank you, Vendor Contact  ",NEEDS_ASSISTANCE ,NULL,"Dear Vendor,
+
+Thank you for your message regarding Indent ID 5. Your query requires human attention and has been flagged for our procurement team's review.
+
+We will get back to you as soon as possible.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",Yes,"Dear Team,
+
+The Automated Follow-Up system has received a supplier reply that requires your immediate attention. The AI classified this email as: **UNCLEAR_OTHER**.
+
+--- Conversation Summary ---
+No previous relevant conversation found.
+--- End Conversation Summary ---
+
+--- Original Message Details (requiring review) ---
+From: Drishti Raiswal <drishti.raiswal@navyuginfo.com>
+Subject: Re: Gentle Reminder: Quotation Request (Form ID: 1453c070-210b-4b63-9bc4-491c008f206c)
+ for Indent ID 5 - Navyug Infosolutions
+Date Received: Wed, 25 Jun 2025 14:54:48 +0530
+
+Original Message:
+  Good morning, We're working on the quotation for Indent ID 5 (Form ID:
+1453c070-210b-4b63-9bc4-491c008f206c  ). We've encountered some difficulty
+in sourcing one of the minor components for 15 units of Gamma Material
+within our usual supply chain constraints. Are you open to considering
+equivalent alternatives, or is a specific brand/model strictly required?
+Thank you, Vendor Contact
+
+On Wed, Jun 25, 2025 at 2:49 PM <drish.navyug@gmail.com> wrote:
+
+> Dear Global Supplies Inc.,
+>
+> We hope this email finds you well.
+>
+> This is a friendly follow-up regarding our quotation request (Indent ID 5)
+> submitted on June 5th, 2025, for 15 units of Gamma Material.  We understand
+> you may be busy, but we wanted to gently remind you to submit your
+> quotation at your earliest convenience.
+>
+> Timely responses are important to us as we are working towards finalizing
+> our procurement process.  To submit your quotation, please click on the
+> following link:
+>
+> [
+> https://yourcompany.com/quotes/form?id=1453c070-210b-4b63-9bc4-491c008f206c](https://yourcompany.com/quotes/form?id=1453c070-210b-4b63-9bc4-491c008f206c)
+>
+> Should you encounter any difficulties in accessing the form or require any
+> assistance in preparing your quotation, please do not hesitate to contact
+> us. We are happy to help in any way we can.
+>
+> Thank you for your time and consideration.
+>
+> Sincerely,
+>
+> Navyug Infosolutions Procurement Team"
+,,,,,,,,
+,,,Noted with thanks.,ACKNOWLEDGMENT,NULL,"Dear Vendor,
+
+Thank you for your message. We are glad to hear from you and appreciate your communication.
+
+Best regards,
+
+Navyug Infosolutions Procurement Team",No,NA

@@ -1,0 +1,15 @@
+.env
+venv/
+__pycache__/
+.gradle/
+build/
+node_modules/
+
+*.pyc
+*.pyo
+
+dist/
+target/
+
+.idea/
+.vscode/
